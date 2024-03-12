@@ -1,0 +1,13 @@
+#!/bin/bash
+
+xdotool set_desktop 5
+
+line=$(ps aux | grep btop | wc -l)
+
+if [ $line -lt 4 ];
+then
+        alacritty -e btop &
+	sleep .75
+	xdotool key Alt_L+x
+fi
+
