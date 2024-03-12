@@ -138,7 +138,7 @@ alias 'trm-restore'='trash-restore'
 alias 'cpwp'='rsync -ah --progress '
 alias 'rsync'='rsync -ah --progress '
 # alias for git bare repo dotfiles
-alias bare='/usr/bin/git --git-dir=/home/arun/DRIVES/ARUN_D/WORK/PoP_OS_files/dotfiles/ --work-tree=/'
+alias bare='/usr/bin/git --git-dir=/home/arun/DRIVES/ARUN_D/WORK/PoP_OS_files/dotfiles/ --work-tree=$HOME'
 
 
 
