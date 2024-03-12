@@ -1,0 +1,5 @@
+#!/bin/bash
+
+exec wine $WINEPREFIX/drive_c/Program\ Files/Notepad++/notepad++.exe $1
+
+

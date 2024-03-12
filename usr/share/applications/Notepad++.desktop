@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=wine "/home/arun/.local/share/wineprefixes/default/drive_c/Program Files/Notepad++/notepad++.exe" %F
+Name=Notepad++
+Terminal=false
+Type=Application
+Icon=7ABC_notepad++.0
+#NoDisplay=true
