@@ -237,6 +237,7 @@ image/webp=picasa-photo-viewer.desktop;
 application/x-wine-extension-inf=Notepad++.desktop;
 text/x-python=code.desktop;
 application/vnd.sqlite3=Notepad++.desktop;wine-extension-rtf.desktop;
+application/x-subrip=mpv.desktop;
 
 [Removed Associations]
 application/x-shellscript=org.gnome.gedit.desktop;
